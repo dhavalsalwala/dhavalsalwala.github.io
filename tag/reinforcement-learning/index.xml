@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | </title>
+    <link>https://dhavalsalwala.github.io/tag/reinforcement-learning/</link>
+      <atom:link href="https://dhavalsalwala.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021 © Dhaval Salwala</copyright><lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dhavalsalwala.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Reinforcement Learning</title>
+      <link>https://dhavalsalwala.github.io/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Master&#39;s Thesis</title>
+      <link>https://dhavalsalwala.github.io/thesis/thesis/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/thesis/thesis/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+This thesis demonstrates the learning course of multi-agent deep reinforcement learning
+algorithms in a setup called Pursuit Evasion. Three multi-agent versions of the RL
+algorithms have been explored in this research viz. Deep Q networks (DQN), Reinforce
+and Advantage Actor-Critic (A2C). The evaluation results reveal that Reinforce has a
+better convergence rate in capturing the spatial correlation of the domain using deep
+learning. A2C is a slow learner and could do better with parameter refinements. In the
+experiments performed in this thesis, DQN did not perform well owing to the non-
+stationarity of the domain.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent Deep Reinforcment Learning</title>
+      <link>https://dhavalsalwala.github.io/projects_academic/multi-agent_rl/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/projects_academic/multi-agent_rl/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+Pursuit is a standard task for benchmarking multi-agent algorithms. The pursuit-evasion domain consists of two sets of agents: evaders and pursuers. The evaders are trying to avoid pursuers, while the pursuers are trying to catch the evaders. The action and observation spaces in this problem are discrete. The agents interact on a two-dimensional grid, and an evader is considered caught if it is surrounded by pursuers on four sides. In order to catch the evaders, the pursuers must learn to cooperate by trapping the evaders on all sides. When the pursuers catch an evader, they receive a reward. The evaders follow a uniform random policy. The domain contains obstacles through which the agents cannot pass. Each pursuer receives a range-limited observation of its surroundings, and must choose between five actions Stay, Go East, Go West, Go South, Go North. The observations contain information about the agent’s surroundings, including the location of nearby pursuers, evaders, and obstacles.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://dhavalsalwala.github.io/projects_academic/rl_algos/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/projects_academic/rl_algos/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+All code is written in Python 3 and uses RL environments from OpenAI Gym and MADRL. Advanced techniques use Tensorflow and Keras for neural network implementations.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

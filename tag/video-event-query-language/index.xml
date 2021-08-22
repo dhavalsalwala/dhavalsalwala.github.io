@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Event Query Language | </title>
+    <link>https://dhavalsalwala.github.io/tag/video-event-query-language/</link>
+      <atom:link href="https://dhavalsalwala.github.io/tag/video-event-query-language/index.xml" rel="self" type="application/rss+xml" />
+    <description>Video Event Query Language</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021 © Dhaval Salwala</copyright><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dhavalsalwala.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Video Event Query Language</title>
+      <link>https://dhavalsalwala.github.io/tag/video-event-query-language/</link>
+    </image>
+    
+    <item>
+      <title>Vision-Farm</title>
+      <link>https://dhavalsalwala.github.io/project/vision-farm/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/project/vision-farm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNOSIS</title>
+      <link>https://dhavalsalwala.github.io/project/gnosis/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/project/gnosis/</guid>
+      <description>&lt;p&gt;GNOSIS is a Multimodal Containerized framework that blends neural (DNNs) and symbolic (rules) models within the event-based paradigm to process IoMT multimodal streams utilising hybrid processing through video event knowledge graphs. GNOSIS combines deep learning and computer vision with real-time event processing capabilities within a microservice-based architecture for video stream processing and AI analytics in Complex Event Processing scenarios. GNOSIS simplifies the querying of streams and the deployment and optimisation of multiple pipelines.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

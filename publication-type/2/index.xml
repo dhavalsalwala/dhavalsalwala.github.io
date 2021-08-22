@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | </title>
+    <link>https://dhavalsalwala.github.io/publication-type/2/</link>
+      <atom:link href="https://dhavalsalwala.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021 © Dhaval Salwala</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dhavalsalwala.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://dhavalsalwala.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>VID-WIN: Fast Video Event Matching with Query-Aware Windowing at the Edge for the Internet of Multimedia Things</title>
+      <link>https://dhavalsalwala.github.io/publication/vid_win/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/publication/vid_win/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Graph Driven Approach to Represent Video Streams for Spatiotemporal Event Pattern Matching in Complex Event Processing System</title>
+      <link>https://dhavalsalwala.github.io/publication/ieee_2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/publication/ieee_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

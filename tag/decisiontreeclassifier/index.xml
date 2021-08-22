@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DecisionTreeClassifier | </title>
+    <link>https://dhavalsalwala.github.io/tag/decisiontreeclassifier/</link>
+      <atom:link href="https://dhavalsalwala.github.io/tag/decisiontreeclassifier/index.xml" rel="self" type="application/rss+xml" />
+    <description>DecisionTreeClassifier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021 © Dhaval Salwala</copyright><lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dhavalsalwala.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>DecisionTreeClassifier</title>
+      <link>https://dhavalsalwala.github.io/tag/decisiontreeclassifier/</link>
+    </image>
+    
+    <item>
+      <title>FAST VOTE AGGREGATION SCHEME</title>
+      <link>https://dhavalsalwala.github.io/projects_academic/dawid-skene/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/projects_academic/dawid-skene/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+The project builds a Dawid Skene model for classifying the polarity (i.e. positive or negative sentiment) of sentences in movie reviews. Movie reviews were taken from Rotten Tomatoes. Polarity labels furnished through crowd workers in Amazon Mechanical Turk.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

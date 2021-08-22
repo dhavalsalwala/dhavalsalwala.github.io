@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP | </title>
+    <link>https://dhavalsalwala.github.io/tag/nlp/</link>
+      <atom:link href="https://dhavalsalwala.github.io/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021 © Dhaval Salwala</copyright><lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dhavalsalwala.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>NLP</title>
+      <link>https://dhavalsalwala.github.io/tag/nlp/</link>
+    </image>
+    
+    <item>
+      <title>GOVERNMENT ANALYTICS</title>
+      <link>https://dhavalsalwala.github.io/projects_academic/govt-analytics/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/projects_academic/govt-analytics/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+Mining pages on social networking websites like Facebook and Twitter is greatly useful in identifying sentiments of people, determining trending topics, identifying target customers for marketing, etc. The task we have considered for this assignment is determing the trending policy topics in Galway based on analysis of tweets from local media house pages like Galway Bay FM News, Galway City Council, Galway County Council, Connacht/City Tribune, RTE News, Galway 2020, Galway Drivers, St. Patrick’s Fest, Bus Eireann and Galway Page. To perform this task, we have made use of Python (for collecting tweets and processing the tweets to identify trending policies) and R (for visualizing our output). Subsequent sections include information on how data was gathered and processed, results and findings.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
