@@ -31,9 +31,9 @@
     
     <item>
       <title>Master&#39;s Thesis</title>
-      <link>https://dhavalsalwala.github.io/thesis/thesis/</link>
+      <link>https://dhavalsalwala.github.io/thesis/postgraduate/</link>
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://dhavalsalwala.github.io/thesis/thesis/</guid>
+      <guid>https://dhavalsalwala.github.io/thesis/postgraduate/</guid>
       <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
 This thesis demonstrates the learning course of multi-agent deep reinforcement learning
 algorithms in a setup called Pursuit Evasion. Three multi-agent versions of the RL
